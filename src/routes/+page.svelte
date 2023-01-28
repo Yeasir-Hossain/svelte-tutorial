@@ -1,1 +1,1 @@
-<h1>Welcome to recipes website</h1>
+<h1 class="text-3xl font-bold underline">Welcome to recipes website</h1>
